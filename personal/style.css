@@ -1,0 +1,26 @@
+html{
+  background-image: url(https://photos-2.dropbox.com/t/2/AAA0iZZTL7nO6945GiIa_eKrbP5HRgjYPn7sOlWJX9lyIw/12/492484879/jpeg/32x32/1/_/1/2/rocker.jpg/ENDh1_8DGAMgBygH/cDGUrOMO0WTf8uIs2qBLa-Nq11bPec0qIZ8dPtd0rDY?size=1280x960&size_mode=2);
+  background-color: green;
+  background-blend-mode: multiply;
+  width: 100%;
+  height: 100%;
+
+}
+
+h1{
+  font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+  	font-size: 124px;
+  	font-style: normal;
+  	font-variant: normal;
+  	font-weight: 500;
+  	line-height: 158.4px;
+    color: white;
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 10%;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.57);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.57);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.57);
+
+
+}
