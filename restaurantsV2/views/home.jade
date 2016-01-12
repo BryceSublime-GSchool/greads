@@ -1,0 +1,18 @@
+extends layout
+
+block content
+
+
+    a(href="/restaurants/create") Create
+    
+      each item in result
+        h2 
+          a(href='/restaurants/#{item.id}') #{item.name}
+          h3 #{item.city}, #{item.state}
+          h3 #{item.cuisine} -- #{item.rating} Stars!!
+          img(src="#{item.img}" class="image")
+          h3 #{item.bio}
+          br
+          br
+          br
+          br
